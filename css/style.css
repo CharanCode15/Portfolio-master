@@ -60,7 +60,7 @@ li
     top: 0;
     bottom: 0;
     z-index: -1;
-    filter: opacity(50%);
+    filter: blur(3px);
     
   }
 
